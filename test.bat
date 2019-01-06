@@ -1,2 +1,2 @@
-ECHO eee
+ECHO "Hello Bat World!"
 PAUSE
